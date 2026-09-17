@@ -1,5 +1,6 @@
+"""модуль для возврата сообщения"""
 
 def text():
-    message = 'hello'
+    """возвращает строку, отсутствовала переменная message"""
+    message = "hello"
     return message
-
